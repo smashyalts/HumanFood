@@ -1,0 +1,4 @@
+name: GuiTesting
+version: '${project.version}'
+main: guitesting.guitesting.GuiTesting
+api-version: 1.19
